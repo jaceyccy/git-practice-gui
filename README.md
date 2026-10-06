@@ -1,4 +1,4 @@
-Git practice sandbox for learning Git.
+Practice repository for Git.
 
 This repository is for practicing Git with GitHub Desktop.
 Edited on the GitHub website.
