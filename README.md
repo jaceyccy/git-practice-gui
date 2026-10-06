@@ -1,4 +1,4 @@
-Practice repository for Git.
+Git practice playground.
 
 This repository is for practicing Git with GitHub Desktop.
 Edited on the GitHub website.
